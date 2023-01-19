@@ -6,6 +6,15 @@
 // Hoera!
 // ==========================================
 
+const congrtz = "Hoera!"
+
+for (let i = 0; i < 3; i++) {
+    console.log(congrtz);
+}
+
+//console.log(congrtz);
+
+
 
 
 // ==========================================
@@ -18,7 +27,14 @@
 // klaar!
  // ==========================================
 
+const walk = "loop..."
+const finish ="Klaar!"
 
+for (let i = 0; i < 4; i++) {
+    console.log(walk);
+
+}
+console.log(finish);
 
 // ==========================================
 // Opdracht 3. Maak een for-loop die van 0 tot 15 loopt. Voor ieder getal wordt in de console gelogd of het getal even of oneven is.
